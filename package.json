@@ -1,0 +1,22 @@
+{
+  "name": "starbuzz",
+  "version": "1.0.0",
+  "description": "starbuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohannesFeige/starbuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohannesFeige/starbuzz/issues"
+  },
+  "homepage": "https://github.com/JohannesFeige/starbuzz#readme",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}

@@ -1,15 +1,12 @@
 import { Beverage } from './beverage';
 
 export class DarkRoast extends Beverage {
-  /**
-   *
-   */
   constructor() {
     super();
-    this.description = 'Most excellent Dark Roast';
+    this.description = 'Dark Roast Coffee';
   }
 
   cost() {
-    return super.cost() + 2.99;
+    return 0.99;
   }
 }

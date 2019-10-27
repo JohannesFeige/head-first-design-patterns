@@ -1,15 +1,12 @@
 import { Beverage } from './beverage';
 
 export class Decaf extends Beverage {
-  /**
-   *
-   */
   constructor() {
     super();
-    this.description = 'Like House Blend but without coffein.';
+    this.description = 'Decaf Coffee';
   }
 
   cost() {
-    return super.cost() + 2.49;
+    return 1.05;
   }
 }

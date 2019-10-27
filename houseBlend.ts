@@ -3,10 +3,10 @@ import { Beverage } from './beverage';
 export class HouseBlend extends Beverage {
   constructor() {
     super();
-    this.description = 'Very good house blend';
+    this.description = 'House Blend Coffee';
   }
 
   cost() {
-    return super.cost() + 2.99;
+    return 0.89;
   }
 }

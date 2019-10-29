@@ -1,7 +1,7 @@
 {
-  "name": "starbuzz",
+  "name": "pizza",
   "version": "1.0.0",
-  "description": "starbuzz decorator",
+  "description": "pizza factory",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
